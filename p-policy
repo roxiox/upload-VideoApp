@@ -1,0 +1,57 @@
+Privacy Policy for upload-VideoApp
+Last Updated: 28/08/2025
+
+Welcome to [Sandbox App Name] ("us," "we," or "our"). This Privacy Policy explains our principles regarding the information processed through our sandbox application (the "Service").
+
+Core Principle: Zero Personal Data
+This Service is designed and intended to operate without the use of any personal, sensitive, financial, or production data. Our policy is not just to protect data, but to not process it in the first place.
+
+By using the Service, you agree to the terms laid out in this policy.
+
+1. Important Notice: Sandbox Environment
+This Service is a non-production, testing environment ("Sandbox"). It is engineered for development and testing of automation workflows only.
+
+You are strictly prohibited from using, storing, processing, or transmitting any real, personal, sensitive, or confidential data of any individual or entity within this Service. This includes, but is not limited to, names, email addresses (other than your own for registration), financial information, health information, or any data considered personal under GDPR or other privacy laws. You are solely and entirely responsible for the data you choose to process through your workflows.
+
+2. Information We Process
+We do not request, collect, or use any personal information from your workflows. The only information we process is the minimum necessary to operate the Service:
+
+a) Information You Provide to Us
+
+Account Information: We collect an email address and a password during registration. This is the only piece of personal information we ever collect. Its sole purpose is for account creation, authentication, and essential service-related communications. You are free to use an email address that does not personally identify you.
+
+b) Information Processed by the Service
+
+Log and Usage Data: We automatically collect non-personal, technical log data when you use the Service (e.g., IP address, browser type). This data is used exclusively for security monitoring, troubleshooting, and ensuring the stability of the platform.
+
+Workflow & Credential Data: The Service stores the n8n workflows and credentials you create. This is your data, and you are responsible for ensuring it does not contain any personal or sensitive information. We treat this data as confidential operational data but provide no guarantees for it in this sandbox environment.
+
+3. How We Use Information
+We use the limited information we process strictly for operational purposes:
+
+To Operate and Maintain the Service: To manage your account, allow you to log in, and execute your workflows.
+
+For Security and Stability: To monitor for security threats, prevent abuse, and ensure the technical functioning of the Service.
+
+We do not analyze, share, or monetize the content of your workflows or the data you process through them.
+
+4. Data Storage and Security
+Data Storage: Your operational data is stored on secure servers located in the European Union.
+
+Security Measures: We implement security measures like encryption for credentials. However, given this is a sandbox environment, we cannot guarantee absolute security. You use this Service at your own risk.
+
+5. Data Retention
+We will retain your Account Information as long as your account is active. We reserve the right to delete any and all data, including workflows and credentials, from inactive accounts or as part of routine maintenance, without notice.
+
+6. Your Data Protection Rights (GDPR)
+The primary principle of this Service is the prohibition of personal data. Therefore, you exercise your data protection rights as follows:
+
+Right to Access, Rectification, Erasure, etc.: You exercise these rights by not inputting personal data into the Service. Since you control all data within your workflows, you can access, modify, and delete it at will.
+
+Regarding Your Registration Email: As this is the only personal data we process, you may request its access or deletion by contacting us. Deleting your email will result in the deletion of your account and all associated data.
+
+7. Changes to This Privacy Policy
+We may update our Privacy Policy. We will notify you of any changes by posting the new policy on this page and updating the "Last Updated" date.
+
+8. Contact Us
+If you have any questions about this Privacy Policy, please contact us at this repo.
