@@ -1,0 +1,67 @@
+Terms of Service for upload-VideoApp
+Last Updated: 28/08/2025
+
+Welcome to [Sandbox App Name] ("us," "we," or "our"). This Service provides a testing environment ("Sandbox") for creating, testing, and executing automation workflows using the n8n platform.
+
+These Terms of Service ("Terms") govern your access to and use of our Sandbox located at [Service URL]. By registering for or using the Service, you ("User," "you") agree to be legally bound by these Terms. If you do not agree, do not use the Service.
+
+1. Nature of the Sandbox Service
+You acknowledge and agree that the Service is a non-production, testing environment. Therefore:
+
+PROVIDED "AS IS": The Service is offered without warranties of any kind, whether express or implied, including, but not limited to, warranties of availability, reliability, security, or fitness for a particular purpose.
+
+NO DATA PERMANENCE GUARANTEE: We do not guarantee the retention, integrity, or availability of any data, credentials, or workflows that you create or store on the Service. We reserve the right to delete, wipe, or reset accounts and data at any time, with or without notice. Do not use this Service to store critical or production data.
+
+POTENTIAL INTERRUPTIONS: The Service may experience interruptions, errors, or changes in functionality without prior notice.
+
+2. User Accounts and Security
+Registration: To use the Service, you may need to register for an account. You must provide accurate information and keep it updated.
+
+Account Responsibility: You are solely responsible for all activity that occurs under your account and for maintaining the confidentiality of your password.
+
+3. Credentials and Connection to Third-Party Services
+The purpose of n8n is to connect different applications and services.
+
+Credential Management: You are solely responsible for the credentials (API keys, tokens, usernames, passwords) you use to connect your workflows to third-party services (e.g., Google, Slack, custom APIs, etc.).
+
+Credential Security: While we implement reasonable security measures, we do not guarantee the absolute security of stored credentials. You assume all risks associated with using and storing your credentials in this Sandbox environment.
+
+Third-Party Liability: We are not responsible for the actions, policies, or performance of any third-party services you connect to via n8n. Your interaction with such services is governed by their respective terms and privacy policies.
+
+4. Content and Workflows
+Ownership: You retain full ownership of the workflows you create and the data you process through them ("Your Content").
+
+Content Responsibility: You are solely responsible for Your Content, ensuring you have the necessary rights to process it, and that its use complies with all applicable laws (including data protection laws like GDPR).
+
+Our License to Use: You grant us a limited, worldwide, non-exclusive license to host, copy, and execute your workflows for the sole purpose of operating and providing the Sandbox Service.
+
+5. Prohibited Uses
+You are strictly prohibited from using the Service for:
+
+Any illegal or fraudulent activity.
+
+Processing critical production data or sensitive personal information.
+
+Sending spam, unsolicited messages, or engaging in any form of network abuse.
+
+Resource-intensive activities unrelated to reasonable testing, such as cryptocurrency mining, denial-of-service (DoS) attacks, or large-scale web scraping.
+
+Attempting to circumvent the Service's limitations or access other users' accounts.
+
+6. Service Intellectual Property
+Except for Your Content, the Service and all its components (software, design, logos, text) are the exclusive property of upload-VideoApp and are protected by intellectual property laws.
+
+7. Limitation of Liability
+TO THE FULLEST EXTENT PERMITTED BY LAW, [COMPANY/YOUR NAME] SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOSS OF DATA, PROFITS, CREDENTIALS, OR OTHER INTANGIBLE LOSSES, RESULTING FROM THE USE OF OR INABILITY TO USE THIS SANDBOX SERVICE.
+
+8. Termination
+We reserve the right to suspend or terminate your access to the Service at any time, for any reason, including for breach of these Terms, with or without notice.
+
+9. Governing Law and Jurisdiction
+These Terms shall be governed by the laws of Spain and Catalonia. Any disputes arising in connection with these Terms shall be subject to the exclusive jurisdiction of the courts of [City, e.g., Barcelona].
+
+10. Changes to Terms
+We may modify these Terms at any time. We will post the updated version on this page. Your continued use of the Service after the changes are posted will constitute your acceptance of the new Terms.
+
+11. Contact
+If you have any questions about these Terms, please contact us at this repo.
